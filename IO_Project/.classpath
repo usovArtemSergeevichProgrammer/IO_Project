@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resourses"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/javax.mail.jar" sourcepath="C:/Users/st/AppData/Local/Temp/.org.sf.feeling.decompiler1560957181732/source/mail-1.4.2-sources-1560957549905.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/poi-4.1.0.jar" sourcepath="C:/Users/st/AppData/Local/Temp/.org.sf.feeling.decompiler1559749107453/source/poi-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/poi-excelant-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/poi-ooxml-4.1.0.jar" sourcepath="C:/Users/st/AppData/Local/Temp/.org.sf.feeling.decompiler1559749107453/source/poi-ooxml-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="/COMMON_LIBS/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
